@@ -1,0 +1,29 @@
+[33mcommit ccfbc73ae9d4f16391a876a0c7983bbc80865a48[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: fever333 <philadeathcore2@mail.ru>
+Date:   Thu Dec 3 05:47:10 2020 +0300
+
+    remove index
+
+[33mcommit fe2ecb3b9c9e1f4f6205da32f1964ab3e12aed95[m
+Author: fever333 <philadeathcore2@mail.ru>
+Date:   Thu Dec 3 05:41:00 2020 +0300
+
+    rename app.html
+
+[33mcommit 81c05a85c5534b073173704d21483dbb34e7d421[m
+Author: fever333 <philadeathcore2@mail.ru>
+Date:   Thu Dec 3 05:38:11 2020 +0300
+
+    refactoring
+
+[33mcommit aeff10690e210814c4f6e911d09921d51deeae45[m
+Author: fever333 <philadeathcore2@mail.ru>
+Date:   Thu Dec 3 05:35:31 2020 +0300
+
+    refactoring
+
+[33mcommit c29b77a8d88db052661f996144d392c7c7fa58b4[m
+Author: fever333 <philadeathcore2@mail.ru>
+Date:   Thu Dec 3 05:27:22 2020 +0300
+
+    init commit
